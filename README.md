@@ -4,7 +4,7 @@
 
 <p style="align: left; text-align: justify; font-size: 13px;"> 
     Olá me chamo Giuseppe, sou programador desde 2023, porém o computador esteve na minha vida logo cedo quando tinha 11 anos.
-    Lembro que a primeira vez que conheci um prompt foi para resolver um bug que aconteceu no Minecraft. 
+    Lembro que a primeira vez que usei alguma lógica, foi no Habbo, utilizando os blocos que conseguiam executar algumas funções automáticas no jogo, com aquilo eu criava labirintos, minigames, puzzles e gostava de aprender cada vez mais. 
     <br /><br/>
     Eu adoro filosofia, nas minhas horas vagas estou sempre jogando alguma coisa e para sustentar tudo isso sempre com uma bela xícara de café. 
 </p>

@@ -4,7 +4,6 @@
 
 <p style="align: left; text-align: justify; font-size: 13px;"> 
     Olá me chamo Giuseppe, sou programador desde 2023, porém o computador esteve na minha vida logo cedo quando tinha 11 anos.
-    <br/><br/>
     Lembro que a primeira vez que conheci um prompt foi para resolver um bug que aconteceu no Minecraft. 
     <br /><br/>
     Eu adoro filosofia, nas minhas horas vagas estou sempre jogando alguma coisa e para sustentar tudo isso sempre com uma bela xícara de café. 

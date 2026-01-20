@@ -10,7 +10,7 @@
     Eu adoro filosofia, nas minhas horas vagas estou sempre jogando alguma coisa e para sustentar tudo isso sempre com uma bela xícara de café. ☕
 </p>
 <br/>
-<p style="font-size: 14px;">| 💻 Atualmente estou aprofundando em: </p>
+<p style="font-size: 14px;">| 💻 Atualmente estou aprofundando em: Docker </p>
 
 ## <h3 style="border-bottom: none; font-size: 16px;">| Linguagens & Tecnologias:</h3>
 
